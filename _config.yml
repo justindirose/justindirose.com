@@ -206,3 +206,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Front Matter defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
