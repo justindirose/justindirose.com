@@ -16,7 +16,11 @@ layout: none
             "id": "{{ post.id }}",
             "title": {{ post.title | smartify | jsonify }},
             "content_html": {{ post.content | jsonify }},
-            "url": "{{ site.url }}{{ post.url }}",
+            {% if post.link %}
+              "url": "{{ post.link }}",
+            {% else %}
+              "url": "{{ site.url }}{{ post.url }}",
+            {% endif %}
             "summary": {{ post.excerpt | smartify | jsonify }},
             "date_published": "{{ post.date }}"
             {% comment %}"author": "{{ post.author }}"{% endcomment %}

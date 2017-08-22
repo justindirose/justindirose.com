@@ -6,5 +6,8 @@ main:
   - title: "About"
     url: /about
 
+  - title: "Book Recommendations"
+    url: /book-recommendations
+
   - title: "Contact"
     url: /contact
