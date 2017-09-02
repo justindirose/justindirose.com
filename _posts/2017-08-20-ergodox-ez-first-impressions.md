@@ -11,7 +11,7 @@ Around 9:30am on Monday, I heard a knock at the door. I opened it to a man holdi
 
 ![My Ergodox Pizza Delivery](\images\pizza-ergodox.png)
 
-My speedy pizza-shaped delivery contained one of the coolest keyboards on the market — the[Ergodox EZ.](ergodox-ez.com "Ergodox EZ")
+My speedy pizza-shaped delivery contained one of the coolest keyboards on the market — the [Ergodox EZ.](ergodox-ez.com "Ergodox EZ")
 
 The Ergodox originated as an open source keyboard design. However, not everyone, myself included, who would want an Ergodox has the patience and skill to solder some where north of 150 individual pieces together.
 
