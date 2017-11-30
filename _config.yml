@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Justin DiRose"
 title_separator          : "-"
 name                     : "Justin DiRose"
-description              : "Exploring technology, productivity, and leadership."
+description              : "Musician/Worship Leader // Creativity, Productivity, Leadership"
 url                      : "http://justindirose.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : "Justin DiRose"
   avatar           : "bio-photo.png"
-  bio              : "I like leading people, geeky things, productivity, and Star Wars."
+  bio              : "Musician/Worship Leader // Passionate about Creativity, Productivity, Quality Leadership // Tech Nerd"
   location         :
   email            : "desk@justindirose.com"
   uri              :
