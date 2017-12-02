@@ -181,6 +181,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
+
+collections:
+  music:
+    output: true
+    permalink: /:collection/:path/
+    
 category_archive:
   type: liquid
   path: /categories/
@@ -220,3 +226,13 @@ defaults:
       comments: false
       share: false
       related: true
+  # _music
+  - scope:
+      path: ""
+      type: music
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      related: false

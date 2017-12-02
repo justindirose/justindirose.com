@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Articles"
+  - title: "Music"
+    url: /music
+
+  - title: "News/Articles"
     url: /
 
   - title: "About"
     url: /about
 
-  - title: "Book Recommendations"
-    url: /book-recommendations
-
   - title: "Contact"
     url: /contact
+
+  - title: "Newsletter"
+    url: /newsletter
