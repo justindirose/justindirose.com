@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
+  - title: "Articles"
+    url: /articles
+
   - title: "Music"
     url: /music
-
-  - title: "News/Articles"
-    url: /
 
   - title: "About"
     url: /about
