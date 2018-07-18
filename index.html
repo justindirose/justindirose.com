@@ -4,43 +4,50 @@ layout: customhome
 
 {% include base_path %}
 
-<h1>{{site.title}}</h1>
-<img src="images/bio-photo.png" alt="{{site.title}}" />
+<div class="front-page-container">
+    <main>
+        <h1 class="front-page-title"><a href="{{ site.baseurl }}">{{site.title}}</a></h1>
+        <img class="front-page-bio-photo" src="images/bio-photo.png" alt="{{site.title}}" />
 
-<h2>Hey, I'm Justin.</h2>
+        <p>Hey there - I'm Justin, a web developer and entrepreneur from Northern Minnesota. I bring a background of nearly <strong>a decade in the technology services industry</strong> working with businesses to help them <strong>utilize technology better</strong>.</p>
 
-<p>By day: IT manager in an up-and-coming, growth-driven company.</p>
-<p>By night:</p>
-<p>Web Developer - Discourse, Wordpress, Jekyll</p>
-<p>Writer for The Productivity Guild</p>
-<p>Musician</p>
+        <p>I can help you with one of your most important places of business: the web.</p>
 
-<p>If you're interested in hiring me, let's chat.</p>
+        <p>Whether you're looking for some help simply <strong>maintaining</strong> your current website, <strong>advice</strong> on how to use today's technology to further your business, or <strong>custom-developed solutions</strong>, you're in the right place.</p>
 
-<p>I also put together a monthly newsletter. If you want to keep up with what I'm doing, feel free to sign up.</p>
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://justindirose.us9.list-manage.com/subscribe/post?u=4cda47817067a2eff28369fd1&amp;id=4da71ebebe" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to my newsletter</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+        <div class="center-div"><a href="/contact" class="btn btn--cta btn--info">Hire Me</a></div>
+
+
+        <h2>Web Developer</h2>
+
+        <h3>Focuses:</h3>
+        <ul>
+            <li>Wordpress</li>
+            <li>Discourse</li>
+            <li>Front-End Development</li>
+            <li>Technology Consulting</li>
+        </ul>
+
+        <p>If you're interested in hiring me, <a href="/contact">let's chat</a>.</p>
+
+        <h2>Where to Find Me</h2>
+
+        <ul>
+            <li>GitHub: <a href="https://github.com/justindirose">justindirose</a></li>
+            <li>Twitter: <a href="https://twitter.com/justindirose">@justindirose</a></li>
+            <li>Micro.blog: <a href="https://micro.blog/justindirose">@justindirose</a></li>
+            <li>Email: Hit up my <a href="/contact">Contact page</a></li>
+        </ul>
+
+        <p>You might also be interested in <a href="/articles">my blog</a>, where I talk about productivity, emotional health, technology, and leadership.</p>
+
+        <h2>For Funsies</h2>
+        <p>I write (and sometimes record) songs.</p>
+        <p>I thoroughly enjoy an excellent cup of coffee.</p>
+        <p>I write regularly for the <a href="https://productivityguild.com">Productivity Guild</a>.</p>
+        <p>I have a wife, two kids, and am recently a free agent.</p>
+    </main>
+    <footer>
+        {% include front-menu.html %}
+    </footer>
 </div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4cda47817067a2eff28369fd1_4da71ebebe" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->

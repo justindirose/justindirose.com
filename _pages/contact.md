@@ -5,7 +5,7 @@ permalink: contact
 author_profile: true
 ---
 
-If you want to chat about music, creativity or pursuing a dream, shoot me an email!
+If you're interested in hiring me, or reaching out just to chat, shoot me a message below!
 
 <form action="http://formspree.io/desk@justindirose.com" method="post">
   <label for="_replyto">Your Email: </label>
