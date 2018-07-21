@@ -25,7 +25,7 @@ I spent probably a week in a large mindmap trying to vet out all the possibiliti
 
 It couldn’t have been more perfect — the right opportunity at the right time, a person to backfill my position easily at my current job, and a dream in my heart about to be fulfilled. 
 
-I’m currently at [Macstock](macstockconferenceandexpo.com), excited to introduce myself for the first time to new people as an entrepreneur.
+I’m currently at [Macstock](http://macstockconferenceandexpo.com), excited to introduce myself for the first time to new people as an entrepreneur.
 
 If you’re now a free agent, or are going on the journey yourself like I am, hit me up. I’d be glad to hear from you. 
 
