@@ -5,7 +5,7 @@ read_time: true
 comments: false
 share: false
 related: false
-title: Free Agent Journal - T-Minus One Week
+title: Free Agent Journal - T-Minus One Week [Productivity Guild]
 link: https://productivityguild.com/t/a-free-agent-journal/3597/13?u=justindirose
 ---
 
