@@ -72,11 +72,11 @@ When a loved one departs, we’re left with a big hole in our lives. Grieving th
 
 In addition to many of the spoken, practical lessons my grandfather taught me, he taught me countless unspoken ones, too, like respecting other people, working hard, and, ultimately, carrying the heart of a father and showing that to everyone around me.
 
-While he’s gone now, the very shadow of his life lives on in the impact he left on others, his family especially included.
+While he’s gone now, the very shadow of his life lives on in the impact he left on others, especially his family.
 
 ## IV.
 
-The book of Ecclesiastes has a famous passage, and it goes like this. 
+The book of Ecclesiastes has a famous passage:
 
 > “For everything there is a season, a time for every activity under heaven. A time to be born and a time to die. A time to plant and a time to harvest. A time to kill and a time to heal. A time to tear down and a time to build up. A time to cry and a time to laugh. A time to grieve and a time to dance. A time to scatter stones and a time to gather stones. A time to embrace and a time to turn away. A time to search and a time to quit searching. A time to keep and a time to throw away. A time to tear and a time to mend. A time to be quiet and a time to speak. A time to love and a time to hate. A time for war and a time for peace.”
 ‭‭- Ecclesiastes‬ ‭3:1-8‬ ‭NLT‬‬
@@ -87,7 +87,7 @@ Amidst all the departures, there have been many arrivals, too. A new career. Ret
 
 Every arrival results from a departure. Like a caterpillar transforming into a butterfly, though something is lost in the process, the end result is far more beautiful. 
 
-I’m learning slowly to embrace these seasons of transition instead of resist them. The process can be scary, hard, and painful, yet the new season is always better than the old. We never lose the old season; rather, it shaped, molded, and changed us into who we are now so that the new season is even possible.
+I’m learning slowly to embrace these seasons of transition instead of resist them. The process can be scary, hard, and painful, yet the new season is always better than the old. We never lose the old season; rather, it shapes, molds, and changes us into who we are now so that new seasons are even possible.
 
 Often, the arrival of this new season isn’t clear, and, instead, it is the start of another uncertain journey in front of us where we get to step out of our comfort zone and be transformed yet again. 
 
