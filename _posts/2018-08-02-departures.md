@@ -60,8 +60,7 @@ Leaving family for yet another long trip on such short notice to drive 750 miles
 
 My grandfather was a tough-as-nails kind of guy. He was in the military, served as a detective captain on the police force, trained security personnel, hunted, fished, and stuffed prize trophy animals. He didn’t have a problem saying one f-bomb or 1,700 in a conversation with you.  Through his life, he’d seen a lot of sh\*t. Even in a small town, it was hard to believe the kind of things he had experienced. 
 
-My grandpa played a large role in my life growing up. We lived close, so we were around a lot, so he became a strong second father figure to me. He taught me many lessons, like how to shoot a gun properly and safely, not sit still hunting, ride a tractor, play poker, and that cough drops put hair on your chest. 
-That is, until he passed away. 
+My grandpa played a large role in my life growing up. We lived close and were around a lot, so he became a strong second father figure to me. He taught me many lessons, like how to shoot a gun properly and safely, not sit still hunting, ride a tractor, play poker, and that cough drops put hair on your chest. 
 
 At the age of 81 after a long battle with cancer, my grandpa passed away. I am grateful to have seen him in June and video called him just a few hours before he passed. 
 
