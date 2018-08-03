@@ -70,7 +70,7 @@ I added another 750 miles to my odometer again just a few days later for his mem
 
 When a loved one departs, we’re left with a big hole in our lives. Grieving that hole sucks. At the same time, that hole is an impression on us, shaped and formed by that person. The mere fact that we grieve is a sign that we’ve been changed by them in some way. The reactions others gave to my stories showed me that my grandpa left not only a mark on me, but all these people as well.
 
-In addition to many of the spoken, practical lessons my grandfather taught me, he taught me countless unspoken ones, too, like respecting other people, working hard, and, ultimately, carrying the heart of a father and showing that to all around me.
+In addition to many of the spoken, practical lessons my grandfather taught me, he taught me countless unspoken ones, too, like respecting other people, working hard, and, ultimately, carrying the heart of a father and showing that to everyone around me.
 
 While he’s gone now, the very shadow of his life lives on in the impact he left on others, his family especially included.
 
