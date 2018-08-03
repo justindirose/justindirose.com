@@ -89,10 +89,10 @@ Every arrival results from a departure. Like a caterpillar transforming into a b
 
 I’m learning slowly to embrace these seasons of transition instead of resist them. The process can be scary, hard, and painful, yet the new season is always better than the old. We never lose the old season; rather, it shapes, molds, and changes us into who we are now so that new seasons are even possible.
 
-Often, the arrival of this new season isn’t clear, and, instead, it is the start of another uncertain journey in front of us where we get to step out of our comfort zone and be transformed yet again. 
+Often, the arrival of new seasons isn’t clear, but instead are the start of another uncertain journey in front of us where we get to step out of our comfort zone and be transformed yet again. 
 
-Uncertainty is where the adventure of life lives. If I have to live by my plans and create a level of manufactured certainty, I will never have adventure in the way I think I was meant. And that would be a drag. I lived life like that for too long, and that isn’t somewhere I’m interested in going back to. Yet that temptation of comfort, of familiar, tries to keep me safe in the port, away from the sea, only merely dreaming of the adventure on the other side of departure. 
+Uncertainty is where the adventure of life lives. If I have to live by my plans and create a level of manufactured certainty, I will never have adventure in the way I think I was meant. And that would be a drag. I lived life like that for too long, and it isn’t somewhere I’m interested in going back to. Yet that temptation of comfort, of familiar, tries to keep me safe in the port, away from the sea, only merely dreaming of the adventure on the other side of departure. 
 
 We often don’t have a choice to depart. It just happens, whether due to necessity, death, or even life. What we do get to choose is what we do on the next journey.
 
-While many seasons have converged and ended all at once in this time of my life, a new season now begins. I fully intend to embrace it and let it leave an impression on me, all until the cycle repeats itself to birth yet another adventure anew sometime ahead.
+While many seasons have converged and ended all at once in this time of my life, a new season now begins. I fully intend to embrace it, and let it leave an impression on me until the cycle repeats itself to birth yet another adventure anew sometime ahead.
