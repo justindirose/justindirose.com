@@ -44,7 +44,7 @@ It was a violent transition, almost as if the earth is grieved the loss of winte
 
 It’s true that not all transitions are _that_ violent, but all transitions are violent in their own ways.
 
-Moving on from my job is extremely bittersweet. I’ve never experienced such rushes of excitement and fear about the future as I have now with me going out on my on just days away. I’m confident I’m leaving my successor with an excellent team, but sad I won’t be there to reap the rewards of my investment directly.
+Moving on from my job is extremely bittersweet. I’ve never experienced such rushes of excitement and fear about the future as I have now with me going out on my own just days away. I’m confident I’m leaving my successor with an excellent team, but sad I won’t be there to reap the rewards of my investment directly.
 
 If you’ve ever read the book of Hebrews in the Bible, specifically chapter 11, the focus is on faith. The chapter lists out a bunch of folks throughout Scripture who weren’t able to see the reward of things they were pursuing before they died. It was future generations who saw the fruit and tasted of its goodness. Stated otherwise, you won’t always see the full result of your investment, but someone will.
 
