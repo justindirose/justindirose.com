@@ -49,3 +49,12 @@
 .masthead__inner-wrap {
     padding-left: 0;
 }
+@media (max-width: 1024px){
+    .front-page-container {
+        width: 100%;
+        padding: 0 25px;
+    }
+    .masthead__menu-item--lg {
+        padding-left: 15px;
+    }
+}
