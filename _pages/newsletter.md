@@ -1,18 +1,17 @@
 ---
 layout: single
-title: Sign Up for Updates!
+title: Email Newsletter Signup
 permalink: newsletter
 author_profile: true
 ---
-Interested in getting a free copy of my song "Mirrors" and staying up to date with my music releases?
 
-Sign up for my email newsletter!
+I'd love to have you join in following my journey as a web developer, creative, and free agent. If that sounds appealing to you, sign up to my email newsletter!
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://justindirose.us9.list-manage.com/subscribe/post?u=4cda47817067a2eff28369fd1&amp;id=4da71ebebe" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>justindirose.com Email Newsletter Signup</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
